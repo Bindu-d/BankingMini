@@ -1,0 +1,135 @@
+2022-04-28 19:47:14,146 - Banking -INFO - URL is opened
+2022-04-28 19:47:14,544 - Banking -INFO - Enter Username
+2022-04-28 19:47:15,119 - Banking -INFO - Enter Password
+2022-04-28 19:47:17,209 - Banking -INFO - LoginTest Passed
+2022-04-28 20:34:46,291 - Banking -INFO - URL is opened
+2022-04-28 20:34:46,674 - Banking -INFO - Enter Username
+2022-04-28 20:34:47,168 - Banking -INFO - Enter Password
+2022-04-28 20:34:49,407 - Banking -INFO - LoginTest Passed
+2022-04-28 21:14:16,353 - Banking -INFO - URL is opened
+2022-04-28 21:14:16,895 - Banking -INFO - Enter Username
+2022-04-28 21:14:16,992 - Banking -INFO - Enter Password
+2022-04-28 21:14:19,316 - Banking -INFO - LoginTest Passed
+2022-04-28 21:24:40,377 - Banking -INFO - URL is opened
+2022-04-28 21:24:40,666 - Banking -INFO - Enter Username
+2022-04-28 21:24:40,709 - Banking -INFO - Enter Password
+2022-04-28 21:24:43,991 - Banking -INFO - LoginTest Passed
+2022-04-28 21:29:17,365 - Banking -INFO - URL is opened
+2022-04-28 21:29:17,817 - Banking -INFO - Enter Username
+2022-04-28 21:29:17,894 - Banking -INFO - Enter Password
+2022-04-28 21:29:19,848 - Banking -INFO - LoginTest Passed
+2022-04-28 21:29:52,442 - Banking -INFO - URL is opened
+2022-04-28 21:29:52,737 - Banking -INFO - Enter Username
+2022-04-28 21:29:52,797 - Banking -INFO - Enter Password
+2022-04-28 21:29:55,319 - Banking -INFO - LoginTest Passed
+2022-04-28 21:33:41,690 - Banking -INFO - URL is opened
+2022-04-28 21:33:42,045 - Banking -INFO - Enter Username
+2022-04-28 21:33:42,085 - Banking -INFO - Enter Password
+2022-04-28 21:33:45,153 - Banking -INFO - LoginTest Passed
+2022-04-29 02:18:57,000 - Banking -INFO - URL is opened
+2022-04-29 02:18:57,821 - Banking -INFO - Enter Username
+2022-04-29 02:18:58,350 - Banking -INFO - Enter Password
+2022-04-29 02:19:00,382 - Banking -INFO - LoginTest Passed
+2022-04-30 17:46:57,380 - Banking -INFO - URL is opened
+2022-04-30 17:46:57,745 - Banking -INFO - Enter Username
+2022-04-30 17:46:58,358 - Banking -INFO - Enter Password
+2022-04-30 17:47:00,976 - Banking -INFO - LoginTest Failed
+2022-04-30 17:53:19,363 - Banking -INFO - URL is opened
+2022-04-30 17:53:19,726 - Banking -INFO - Enter Username
+2022-04-30 17:53:19,954 - Banking -INFO - Enter Password
+2022-04-30 17:53:23,145 - Banking -INFO - LoginTest Failed
+2022-04-30 18:04:23,398 - Banking -INFO - URL is opened
+2022-04-30 18:04:23,814 - Banking -INFO - Enter Username
+2022-04-30 18:04:23,907 - Banking -INFO - Enter Password
+2022-04-30 18:04:26,657 - Banking -INFO - LoginTest Failed
+2022-04-30 18:10:46,809 - Banking -INFO - URL is opened
+2022-04-30 18:10:47,153 - Banking -INFO - Enter Username
+2022-04-30 18:10:47,692 - Banking -INFO - Enter Password
+2022-04-30 20:51:33,383 - Banking -INFO - user name provided
+2022-04-30 20:51:33,597 - Banking -INFO - password provided
+2022-04-30 20:51:38,431 - Banking -INFO - Login passed
+2022-04-30 20:51:44,499 - Banking -INFO - user name provided
+2022-04-30 20:51:44,596 - Banking -INFO - password provided
+2022-04-30 20:51:50,747 - Banking -INFO - user name provided
+2022-04-30 20:51:50,981 - Banking -INFO - password provided
+2022-04-30 20:51:56,774 - Banking -INFO - user name provided
+2022-04-30 20:51:56,892 - Banking -INFO - password provided
+2022-04-30 20:52:01,622 - Banking -INFO - Login passed
+2022-04-30 20:52:08,198 - Banking -INFO - user name provided
+2022-04-30 20:52:08,453 - Banking -INFO - password provided
+2022-04-30 22:03:08,192 - Banking -INFO - User name is provided
+2022-04-30 22:03:08,258 - Banking -INFO - Passsword is provided
+2022-04-30 22:03:12,518 - Banking -INFO - providing customer details....
+2022-04-30 22:03:49,583 - Banking -INFO - User name is provided
+2022-04-30 22:03:49,647 - Banking -INFO - Passsword is provided
+2022-04-30 22:03:53,956 - Banking -INFO - providing customer details....
+2022-04-30 22:04:11,482 - Banking -INFO - validation started....
+2022-04-30 22:14:00,857 - Banking -INFO - User name is provided
+2022-04-30 22:14:00,930 - Banking -INFO - Passsword is provided
+2022-04-30 22:14:05,363 - Banking -INFO - providing customer details....
+2022-04-30 22:14:20,141 - Banking -INFO - validation started....
+2022-04-30 22:14:20,160 - Banking -INFO - Test case passed....
+2022-04-30 22:37:40,028 - Banking -INFO - URL is opened
+2022-04-30 22:37:40,259 - Banking -INFO - Enter Username
+2022-04-30 22:37:40,826 - Banking -INFO - Enter Password
+2022-04-30 22:37:51,798 - Banking -INFO - user name provided
+2022-04-30 22:37:51,876 - Banking -INFO - password provided
+2022-04-30 22:37:57,618 - Banking -INFO - Login passed
+2022-04-30 22:38:03,803 - Banking -INFO - user name provided
+2022-04-30 22:38:03,895 - Banking -INFO - password provided
+2022-04-30 22:38:09,882 - Banking -INFO - user name provided
+2022-04-30 22:38:09,969 - Banking -INFO - password provided
+2022-04-30 22:38:15,781 - Banking -INFO - user name provided
+2022-04-30 22:38:15,870 - Banking -INFO - password provided
+2022-04-30 22:38:20,810 - Banking -INFO - Login passed
+2022-04-30 22:38:27,462 - Banking -INFO - user name provided
+2022-04-30 22:38:27,743 - Banking -INFO - password provided
+2022-04-30 22:38:39,752 - Banking -INFO - User name is provided
+2022-04-30 22:38:39,872 - Banking -INFO - Passsword is provided
+2022-04-30 22:38:44,938 - Banking -INFO - providing customer details....
+2022-04-30 22:39:03,488 - Banking -INFO - validation started....
+2022-04-30 22:39:03,551 - Banking -INFO - Test case passed....
+2022-04-30 22:57:37,760 - Banking -INFO - URL is opened
+2022-04-30 22:57:38,121 - Banking -INFO - Enter Username
+2022-04-30 22:57:38,763 - Banking -INFO - Enter Password
+2022-04-30 22:57:40,726 - Banking -INFO - LoginTest Passed
+2022-04-30 22:57:48,839 - Banking -INFO - user name provided
+2022-04-30 22:57:49,117 - Banking -INFO - password provided
+2022-04-30 22:57:55,901 - Banking -INFO - user name provided
+2022-04-30 22:57:56,042 - Banking -INFO - password provided
+2022-04-30 22:58:02,805 - Banking -INFO - user name provided
+2022-04-30 22:58:02,977 - Banking -INFO - password provided
+2022-05-02 17:31:23,935 - Banking -INFO - URL is opened
+2022-05-02 17:31:24,056 - Banking -INFO - Enter Username
+2022-05-02 17:31:24,130 - Banking -INFO - Enter Password
+2022-05-02 17:31:25,398 - Banking -INFO - LoginTest Passed
+2022-05-02 17:31:30,068 - Banking -INFO - User name is provided
+2022-05-02 17:31:30,109 - Banking -INFO - Passsword is provided
+2022-05-02 17:31:34,665 - Banking -INFO - providing customer details....
+2022-05-02 17:31:48,695 - Banking -INFO - validation started....
+2022-05-02 17:31:48,729 - Banking -INFO - Test case passed....
+2022-05-02 18:02:24,179 - Banking -INFO - URL is opened
+2022-05-02 18:02:24,288 - Banking -INFO - Enter Username
+2022-05-02 18:02:24,350 - Banking -INFO - Enter Password
+2022-05-02 18:02:25,524 - Banking -INFO - LoginTest Passed
+2022-05-02 18:02:30,159 - Banking -INFO - User name is provided
+2022-05-02 18:02:30,219 - Banking -INFO - Passsword is provided
+2022-05-02 18:02:34,662 - Banking -INFO - providing customer details....
+2022-05-02 18:02:47,609 - Banking -INFO - validation started....
+2022-05-02 18:02:47,625 - Banking -INFO - Test case passed....
+2022-05-02 18:09:35,828 - Banking -INFO - URL is opened
+2022-05-02 18:09:35,926 - Banking -INFO - Enter Username
+2022-05-02 18:09:35,986 - Banking -INFO - Enter Password
+2022-05-02 18:09:37,356 - Banking -INFO - LoginTest Passed
+2022-05-02 18:09:42,050 - Banking -INFO - User name is provided
+2022-05-02 18:09:42,112 - Banking -INFO - Passsword is provided
+2022-05-02 18:09:46,394 - Banking -INFO - providing customer details....
+2022-05-02 18:10:00,200 - Banking -INFO - validation started....
+2022-05-02 18:10:00,214 - Banking -INFO - Test case passed....
+2022-05-02 19:55:38,865 - Banking -INFO - URL is opened
+2022-05-02 19:55:39,253 - Banking -INFO - Enter Username
+2022-05-02 19:55:40,119 - Banking -INFO - Enter Password
+2022-05-02 19:55:43,106 - Banking -INFO - LoginTest Passed
+2022-05-02 19:55:50,212 - Banking -INFO - User name is provided
+2022-05-02 19:55:50,754 - Banking -INFO - Passsword is provided
+2022-05-02 19:55:56,764 - Banking -INFO - providing customer details....

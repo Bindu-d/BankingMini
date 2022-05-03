@@ -1,0 +1,135 @@
+2022-04-28 19:47:14,146 [main] INFO Banking - URL is opened
+2022-04-28 19:47:14,544 [main] INFO Banking - Enter Username
+2022-04-28 19:47:15,119 [main] INFO Banking - Enter Password
+2022-04-28 19:47:17,209 [main] INFO Banking - LoginTest Passed
+2022-04-28 20:34:46,291 [main] INFO Banking - URL is opened
+2022-04-28 20:34:46,674 [main] INFO Banking - Enter Username
+2022-04-28 20:34:47,168 [main] INFO Banking - Enter Password
+2022-04-28 20:34:49,407 [main] INFO Banking - LoginTest Passed
+2022-04-28 21:14:16,353 [main] INFO Banking - URL is opened
+2022-04-28 21:14:16,895 [main] INFO Banking - Enter Username
+2022-04-28 21:14:16,992 [main] INFO Banking - Enter Password
+2022-04-28 21:14:19,316 [main] INFO Banking - LoginTest Passed
+2022-04-28 21:24:40,377 [main] INFO Banking - URL is opened
+2022-04-28 21:24:40,666 [main] INFO Banking - Enter Username
+2022-04-28 21:24:40,709 [main] INFO Banking - Enter Password
+2022-04-28 21:24:43,991 [main] INFO Banking - LoginTest Passed
+2022-04-28 21:29:17,365 [main] INFO Banking - URL is opened
+2022-04-28 21:29:17,817 [main] INFO Banking - Enter Username
+2022-04-28 21:29:17,894 [main] INFO Banking - Enter Password
+2022-04-28 21:29:19,848 [main] INFO Banking - LoginTest Passed
+2022-04-28 21:29:52,442 [main] INFO Banking - URL is opened
+2022-04-28 21:29:52,737 [main] INFO Banking - Enter Username
+2022-04-28 21:29:52,797 [main] INFO Banking - Enter Password
+2022-04-28 21:29:55,319 [main] INFO Banking - LoginTest Passed
+2022-04-28 21:33:41,690 [main] INFO Banking - URL is opened
+2022-04-28 21:33:42,045 [main] INFO Banking - Enter Username
+2022-04-28 21:33:42,085 [main] INFO Banking - Enter Password
+2022-04-28 21:33:45,153 [main] INFO Banking - LoginTest Passed
+2022-04-29 02:18:57,000 [main] INFO Banking - URL is opened
+2022-04-29 02:18:57,821 [main] INFO Banking - Enter Username
+2022-04-29 02:18:58,350 [main] INFO Banking - Enter Password
+2022-04-29 02:19:00,382 [main] INFO Banking - LoginTest Passed
+2022-04-30 17:46:57,380 [main] INFO Banking - URL is opened
+2022-04-30 17:46:57,745 [main] INFO Banking - Enter Username
+2022-04-30 17:46:58,358 [main] INFO Banking - Enter Password
+2022-04-30 17:47:00,976 [main] INFO Banking - LoginTest Failed
+2022-04-30 17:53:19,363 [main] INFO Banking - URL is opened
+2022-04-30 17:53:19,726 [main] INFO Banking - Enter Username
+2022-04-30 17:53:19,954 [main] INFO Banking - Enter Password
+2022-04-30 17:53:23,145 [main] INFO Banking - LoginTest Failed
+2022-04-30 18:04:23,398 [main] INFO Banking - URL is opened
+2022-04-30 18:04:23,814 [main] INFO Banking - Enter Username
+2022-04-30 18:04:23,907 [main] INFO Banking - Enter Password
+2022-04-30 18:04:26,657 [main] INFO Banking - LoginTest Failed
+2022-04-30 18:10:46,809 [main] INFO Banking - URL is opened
+2022-04-30 18:10:47,153 [main] INFO Banking - Enter Username
+2022-04-30 18:10:47,692 [main] INFO Banking - Enter Password
+2022-04-30 20:51:33,383 [main] INFO Banking - user name provided
+2022-04-30 20:51:33,597 [main] INFO Banking - password provided
+2022-04-30 20:51:38,431 [main] INFO Banking - Login passed
+2022-04-30 20:51:44,499 [main] INFO Banking - user name provided
+2022-04-30 20:51:44,596 [main] INFO Banking - password provided
+2022-04-30 20:51:50,747 [main] INFO Banking - user name provided
+2022-04-30 20:51:50,981 [main] INFO Banking - password provided
+2022-04-30 20:51:56,774 [main] INFO Banking - user name provided
+2022-04-30 20:51:56,892 [main] INFO Banking - password provided
+2022-04-30 20:52:01,622 [main] INFO Banking - Login passed
+2022-04-30 20:52:08,198 [main] INFO Banking - user name provided
+2022-04-30 20:52:08,453 [main] INFO Banking - password provided
+2022-04-30 22:03:08,192 [main] INFO Banking - User name is provided
+2022-04-30 22:03:08,258 [main] INFO Banking - Passsword is provided
+2022-04-30 22:03:12,518 [main] INFO Banking - providing customer details....
+2022-04-30 22:03:49,583 [main] INFO Banking - User name is provided
+2022-04-30 22:03:49,647 [main] INFO Banking - Passsword is provided
+2022-04-30 22:03:53,956 [main] INFO Banking - providing customer details....
+2022-04-30 22:04:11,482 [main] INFO Banking - validation started....
+2022-04-30 22:14:00,857 [main] INFO Banking - User name is provided
+2022-04-30 22:14:00,930 [main] INFO Banking - Passsword is provided
+2022-04-30 22:14:05,363 [main] INFO Banking - providing customer details....
+2022-04-30 22:14:20,141 [main] INFO Banking - validation started....
+2022-04-30 22:14:20,160 [main] INFO Banking - Test case passed....
+2022-04-30 22:37:40,028 [main] INFO Banking - URL is opened
+2022-04-30 22:37:40,259 [main] INFO Banking - Enter Username
+2022-04-30 22:37:40,826 [main] INFO Banking - Enter Password
+2022-04-30 22:37:51,798 [main] INFO Banking - user name provided
+2022-04-30 22:37:51,876 [main] INFO Banking - password provided
+2022-04-30 22:37:57,618 [main] INFO Banking - Login passed
+2022-04-30 22:38:03,803 [main] INFO Banking - user name provided
+2022-04-30 22:38:03,895 [main] INFO Banking - password provided
+2022-04-30 22:38:09,882 [main] INFO Banking - user name provided
+2022-04-30 22:38:09,969 [main] INFO Banking - password provided
+2022-04-30 22:38:15,781 [main] INFO Banking - user name provided
+2022-04-30 22:38:15,870 [main] INFO Banking - password provided
+2022-04-30 22:38:20,810 [main] INFO Banking - Login passed
+2022-04-30 22:38:27,462 [main] INFO Banking - user name provided
+2022-04-30 22:38:27,743 [main] INFO Banking - password provided
+2022-04-30 22:38:39,752 [main] INFO Banking - User name is provided
+2022-04-30 22:38:39,872 [main] INFO Banking - Passsword is provided
+2022-04-30 22:38:44,938 [main] INFO Banking - providing customer details....
+2022-04-30 22:39:03,488 [main] INFO Banking - validation started....
+2022-04-30 22:39:03,551 [main] INFO Banking - Test case passed....
+2022-04-30 22:57:37,760 [main] INFO Banking - URL is opened
+2022-04-30 22:57:38,121 [main] INFO Banking - Enter Username
+2022-04-30 22:57:38,763 [main] INFO Banking - Enter Password
+2022-04-30 22:57:40,726 [main] INFO Banking - LoginTest Passed
+2022-04-30 22:57:48,839 [main] INFO Banking - user name provided
+2022-04-30 22:57:49,117 [main] INFO Banking - password provided
+2022-04-30 22:57:55,901 [main] INFO Banking - user name provided
+2022-04-30 22:57:56,042 [main] INFO Banking - password provided
+2022-04-30 22:58:02,805 [main] INFO Banking - user name provided
+2022-04-30 22:58:02,977 [main] INFO Banking - password provided
+2022-05-02 17:31:23,935 [main] INFO Banking - URL is opened
+2022-05-02 17:31:24,056 [main] INFO Banking - Enter Username
+2022-05-02 17:31:24,130 [main] INFO Banking - Enter Password
+2022-05-02 17:31:25,398 [main] INFO Banking - LoginTest Passed
+2022-05-02 17:31:30,068 [main] INFO Banking - User name is provided
+2022-05-02 17:31:30,109 [main] INFO Banking - Passsword is provided
+2022-05-02 17:31:34,665 [main] INFO Banking - providing customer details....
+2022-05-02 17:31:48,695 [main] INFO Banking - validation started....
+2022-05-02 17:31:48,729 [main] INFO Banking - Test case passed....
+2022-05-02 18:02:24,179 [main] INFO Banking - URL is opened
+2022-05-02 18:02:24,288 [main] INFO Banking - Enter Username
+2022-05-02 18:02:24,350 [main] INFO Banking - Enter Password
+2022-05-02 18:02:25,524 [main] INFO Banking - LoginTest Passed
+2022-05-02 18:02:30,159 [main] INFO Banking - User name is provided
+2022-05-02 18:02:30,219 [main] INFO Banking - Passsword is provided
+2022-05-02 18:02:34,662 [main] INFO Banking - providing customer details....
+2022-05-02 18:02:47,609 [main] INFO Banking - validation started....
+2022-05-02 18:02:47,625 [main] INFO Banking - Test case passed....
+2022-05-02 18:09:35,828 [main] INFO Banking - URL is opened
+2022-05-02 18:09:35,926 [main] INFO Banking - Enter Username
+2022-05-02 18:09:35,986 [main] INFO Banking - Enter Password
+2022-05-02 18:09:37,356 [main] INFO Banking - LoginTest Passed
+2022-05-02 18:09:42,050 [main] INFO Banking - User name is provided
+2022-05-02 18:09:42,112 [main] INFO Banking - Passsword is provided
+2022-05-02 18:09:46,394 [main] INFO Banking - providing customer details....
+2022-05-02 18:10:00,200 [main] INFO Banking - validation started....
+2022-05-02 18:10:00,214 [main] INFO Banking - Test case passed....
+2022-05-02 19:55:38,865 [main] INFO Banking - URL is opened
+2022-05-02 19:55:39,253 [main] INFO Banking - Enter Username
+2022-05-02 19:55:40,119 [main] INFO Banking - Enter Password
+2022-05-02 19:55:43,106 [main] INFO Banking - LoginTest Passed
+2022-05-02 19:55:50,212 [main] INFO Banking - User name is provided
+2022-05-02 19:55:50,754 [main] INFO Banking - Passsword is provided
+2022-05-02 19:55:56,764 [main] INFO Banking - providing customer details....
